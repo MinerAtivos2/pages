@@ -1,0 +1,6 @@
+
+title: "MinerAtivos"
+description: "Análises e insights do mercado de ações brasileiro"
+baseurl: "" # deixe vazio se estiver na raiz
+url: "https://minerativos.github.io"
+theme: minima
